@@ -1,0 +1,3 @@
+on:
+  check_run:
+    types: [rerequested, requested_action]
